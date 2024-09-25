@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\bin\Debug\net8.0\ReverseNumber.exe
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\bin\Debug\net8.0\ReverseNumber.deps.json
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\bin\Debug\net8.0\ReverseNumber.runtimeconfig.json
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\bin\Debug\net8.0\ReverseNumber.dll
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\bin\Debug\net8.0\ReverseNumber.pdb
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\obj\Debug\net8.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\obj\Debug\net8.0\ReverseNumber.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\obj\Debug\net8.0\ReverseNumber.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\obj\Debug\net8.0\ReverseNumber.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\obj\Debug\net8.0\ReverseNumber.dll
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\obj\Debug\net8.0\refint\ReverseNumber.dll
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\obj\Debug\net8.0\ReverseNumber.pdb
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\obj\Debug\net8.0\ReverseNumber.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\New folder\ReverseNumber\obj\Debug\net8.0\ref\ReverseNumber.dll
